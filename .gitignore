@@ -1,0 +1,8 @@
+_pycache_/
+.venv/
+qwen-code-assistant/
+qwen-code-assistant-merged/
+qwen-code-assistant-large-merged/
+*.safetensors
+*.pt
+*.pth
